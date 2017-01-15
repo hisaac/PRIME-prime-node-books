@@ -1,5 +1,9 @@
 # Node to Postgres Lecture
 
+One of our first interactions with a database, we connected to the PostgreSQL database, and manipulated it using "router".
+
+---
+
 Covers creating a CRUD application with Node/Express and PostgreSQL.
 
 ## Takeaways
